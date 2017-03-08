@@ -1,10 +1,15 @@
-.idea/
-.gradle/
-build/
-obj/
-*.iml
+build
+build/*
+.gradle/*
+.idea
+.idea/*
+*/*.iml
 local.properties
-*.keystore
-gradle.properties
+workspace.xml
+gradlew.bat
+gradlew
+TMessagesProj/build/*
+TMessagesProj/TMessagesProj.iml
 
-TMessagesProj/src/main/java/org/telegram/messenger/BuildVars.java
+*.zip
+*.tar.gz
