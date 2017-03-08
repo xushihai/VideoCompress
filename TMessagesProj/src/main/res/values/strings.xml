@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+    <string name="AppName">Telegram</string>
+    <string name="AppNameBeta">Telegram Beta</string>
+
+    <string name="OriginalVideo">Original Video</string>
+    <string name="EditedVideo">Edited Video</string>
+    <string name="SendingVideo">Sending video...</string>
+    <string name="CompressVideo">Compress Video</string>
+
+</resources>
